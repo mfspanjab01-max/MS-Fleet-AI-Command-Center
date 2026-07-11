@@ -1,0 +1,17 @@
+{
+  "event": "message",
+  "session": "default",
+  "payload": {
+    "id": "false_120363025555555555@g.us_SAMPLE001",
+    "timestamp": "2026-07-10T14:35:00Z",
+    "from": "120363025555555555@g.us",
+    "chatId": "120363025555555555@g.us",
+    "chatName": "MS Fleet Repair Dispatch",
+    "author": "15551234567@c.us",
+    "senderName": "Carlos",
+    "type": "chat",
+    "body": "Unidad 421 no arranca. Cambie starter PN 8200432 qty 1. Truck ready, tested ok. Invoice $480 paid.",
+    "hasMedia": false
+  }
+}
+
